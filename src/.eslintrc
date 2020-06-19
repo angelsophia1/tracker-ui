@@ -1,0 +1,14 @@
+{
+"env": {
+"browser": true,
+"node" : true
+},
+"rules": {
+"import/extensions": [ "error", "always", { "ignorePackages": true } ],
+"react/prop-types": "off",
+"no-console": "off",
+"linebreak-style": 0,
+"indent":"off",
+"react/jsx-indent":"off"
+}
+}
